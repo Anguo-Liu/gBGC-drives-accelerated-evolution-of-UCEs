@@ -12,5 +12,5 @@ Organization of this repository
 ------------
 
 Each directory contains the scripts for a particular analysis, along with a README describing
-that analysis. In many cases logs and/or output files are also stored in a subdirectory 
+that analysis. In some cases logs and/or output files are also stored in a subdirectory 
 under each analysis. Numbers refer to the sections of the methods in the accompanying manuscript. 
